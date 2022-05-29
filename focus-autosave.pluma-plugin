@@ -1,9 +1,9 @@
-[Gedit Plugin]
+[Plugin]
 Loader=python
 Module=focus_autosave
 IAge=2
 Name=Focus Autosave
-Description=Save document when losing focus.
-Authors=Gautier Portet <kassoulet@gmail.com>
+Description=Save unsaved document when losing focus.
+Authors=Gautier Portet <kassoulet@gmail.com>, Davi Poyastro
 Copyright=Copyright © 2009-2010 Gautier Portet <kassoulet@gmail.com>
 Website=http://kassoulet.free.fr
